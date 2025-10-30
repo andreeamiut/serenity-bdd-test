@@ -33,6 +33,9 @@ jobs:
     - name: Run tests
       run: mvn test
 
+    - name: Package
+      run: mvn package -DskipTests
+
     - name: Generate Serenity Report
       run: mvn serenity:aggregate
       if: always()
