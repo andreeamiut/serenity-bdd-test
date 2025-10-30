@@ -1,0 +1,4 @@
+com\example\LoginTest.class
+com\example\steps\LoginSteps.class
+com\example\pages\LoginPage.class
+com\example\SampleSerenityTest.class
