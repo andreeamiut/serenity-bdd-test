@@ -21,7 +21,6 @@ A scalable BDD test automation framework built with **Serenity BDD**, **Cucumber
 ---
 
 ## 🏗️ Project Structure
-
 ```
 ├── src/
 │   ├── main/java/
@@ -46,7 +45,6 @@ A scalable BDD test automation framework built with **Serenity BDD**, **Cucumber
 - Maven 3.6+
 
 ### Run Tests
-
 ```bash
 # Clone the repository
 git clone https://github.com/andreeamiut/serenity-bdd-test.git
@@ -65,46 +63,6 @@ After test execution, open the Serenity report:
 ```
 target/site/serenity/index.html
 ```
-
----
-
-## 📝 Writing Tests
-
-### Feature File Example
-```gherkin
-Feature: User Login
-
-  @smoke
-  Scenario: Successful login with valid credentials
-    Given the user is on the login page
-    When the user enters valid credentials
-    Then the user should see the dashboard
-```
-
-### Step Definition Example
-```java
-@Given("the user is on the login page")
-public void userIsOnLoginPage() {
-    loginPage.open();
-}
-```
-
----
-
-## ⚙️ Configuration
-
-Edit `serenity.properties` to customize:
-```properties
-webdriver.driver = chrome
-webdriver.autodownload = true
-serenity.browser.maximized = true
-```
-
----
-
-## 🔄 CI/CD
-
-Tests run automatically on push via GitHub Actions. See `.github/workflows/` for pipeline configuration.
 
 ---
 
