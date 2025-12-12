@@ -1,25 +1,72 @@
-# Serenity JUnit Starter project
+# Hi, I'm Andreea 👋
 
-Get started quickly with Serenity BDD and JUnit 5 with this simple starter project. 
+**Senior QA Automation Architect** | 17+ years in Quality Engineering | 7 years Full-Stack Development
 
-## Get the code
+I design scalable test automation frameworks and QA strategies that deliver measurable impact.
 
-Click on the [Use This Template button](https://github.com/serenity-bdd/serenity-junit-starter/generate) to create a new project in your own Github account. 
+---
 
-Or simply [download a zip](https://github.com/serenity-bdd/serenity-junit-starter/archive/master.zip) file.
+## 🎯 Results I've Delivered
 
-## Running the tests under Maven
+- **50% faster regression cycles** – Architected Selenium 4 + Cucumber BDD framework for banking domain
+- **60% fewer API defects** – Systematic early validation protocols for IoT platform (50+ enterprise customers)
+- **35% faster quality feedback** – CI/CD pipeline automation with quality gates
 
-The template project comes with both Maven and Gradle build scripts. To run the tests with Maven, open a command window and run:
+---
 
-  ./mvnw clean verify
+## 🔧 Tech Stack
 
-## Use Gradle
+**Automation & Frameworks**
+```
+Selenium 4 • Playwright • Cucumber BDD • Serenity BDD • REST Assured • Postman
+```
 
-For GRADLE, pen a command window and run:
+**Languages**
+```
+Java • Python • JavaScript • Bash
+```
 
-  ./gradlew test 
+**CI/CD & DevOps**
+```
+Jenkins • GitHub Actions • Azure DevOps • GitLab CI • Docker
+```
 
-## Viewing the reports
+**Performance & Reporting**
+```
+JMeter • k6 • Allure Reports • Xray
+```
 
-Both of the commands provided above will produce a Serenity test report in the `target/site/serenity` directory. Go take a look!
+---
+
+## 🏢 Domains
+
+`Banking & Finance` `Healthcare & Life Science` `IoT / Smart Buildings` `Retail` `Airline`
+
+---
+
+## 📂 Featured Projects
+
+| Repository | Description |
+|------------|-------------|
+| [serenity-bdd-test](https://github.com/andreeamiut/serenity-bdd-test) | BDD automation framework with Serenity + Java |
+| [restAssuredPOC](https://github.com/andreeamiut/restAssuredPOC) | API testing framework with REST Assured |
+| [poc_python](https://github.com/andreeamiut/poc_python) | Python test automation examples |
+
+---
+
+## 🚀 Current Focus
+
+- Agentic AI testing frameworks
+- LLM-driven autonomous testing research
+- Quality intelligence systems
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreea-miut/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andreea.miut@gmail.com)
+
+---
+
+*Open to contract opportunities – Remote / Europe*
